@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emilkanske
+- 👀 I’m interested in things
+- 🌱 I’m currently learning things
