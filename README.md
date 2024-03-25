@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @emilkanske
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
+## 😎 Hello, I am Emil
+- Sometimes I do stuff.
+- Other times I dont.
